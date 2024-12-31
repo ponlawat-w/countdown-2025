@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    align-content: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 14em;
+    font-family: monospace;
+    justify-self: center;
+}
