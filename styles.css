@@ -2,10 +2,12 @@ body {
     height: 100vh;
     align-content: center;
     text-align: center;
+    background-color: #232323;;
 }
 
 h1 {
     font-size: 14em;
     font-family: monospace;
     justify-self: center;
+    color: #ffffff;
 }
